@@ -2,7 +2,7 @@
 
 <h1>Snow Rider 3D</h1>
 
-<p><strong>Website:</strong> <a href="https://colorrush.org/snow-rider-3d">https://colorrush.org/snow-rider-3d</a></p>
+<p><strong>Play here:</strong> <a href="https://colorrush.org/snow-rider-3d">Snow Rider 3D</a></p>
 
 <h2>Slide into Action with Snow Rider 3D!</h2>
 <p>Get ready to race down a snowy mountain in <strong>Snow Rider 3D</strong>! Hop on your sled, dodge trees, leap over gaps, avoid crashing snowballs, and snatch as many presents as you can. How far can you go before the wild winter wipes you out?</p>
